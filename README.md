@@ -28,13 +28,13 @@
 
 ## 5. [Clustering](https://github.com/temuchinn/Educational_cases_ML/blob/master/5.%20Clustering.ipynb)
 
-**Датасет:**
+**Датасет:** Earthquakes dataset
 
-**Описание:**
+**Описание:** В ноутбуке применяются базовые алгоритмы кластеризации. Изначально проведен первичный анализ данных, работа с картой, а затем предобработка данных перед кластеризацией. Затем были применены методы кластеризации и определено число кластеров по метрикам.
 
 ## 6. [Neural Networks basic](https://github.com/temuchinn/Educational_cases_ML/blob/master/6.%20Neural%20Networks.ipynb)
 
-**Датасет:**
+**Датасет:** 
 
 **Описание:**
 
