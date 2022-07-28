@@ -46,9 +46,9 @@
 
 ## 8. [Outliers Detection](https://github.com/temuchinn/Educational_cases_ML/blob/master/8.%20Outliers%20Detection.ipynb)
 
-**Датасет:** 
+**Датасет:** Cardiotocography 
 
-**Описание:**
+**Описание:** В данной работе рассмотрены следующие подходы к обнаружению выбросов: классический, с учителем и без учителя. Проведен предварительный анализ данных и выделены лучшие из подходов.
 
 ## 9. [Stock Market part. 1](https://github.com/temuchinn/Educational_cases_ML/blob/master/9.%20Stock_market_analysis.ipynb)
 
