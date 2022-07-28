@@ -34,19 +34,19 @@
 
 ## 6. [Neural Networks basic](https://github.com/temuchinn/Educational_cases_ML/blob/master/6.%20Neural%20Networks.ipynb)
 
-**Датасет:** 
+**Датасет:** AirQualityUCI, 57_hypothyroid, hotdogs
 
-**Описание:**
+**Описание:** В данной работе рассмотрено применение нейронных сетей для задач регрессии, классификации (классич. ) и классификации изображений. Использовались библиотеки PyTorch и Keras.
 
 ## 7. [Neural Nets for NLP](https://github.com/temuchinn/Educational_cases_ML/blob/master/7.%20NN_NLP.ipynb)
 
-**Датасет:**
+**Датасет:** LargeMovieReviewDataset
 
-**Описание:**
+**Описание:** В ноутбуке изучается применение реккурентных алгоритмов, основанных на концепции нейронных сетей, для определения тональности текста. 
 
 ## 8. [Outliers Detection](https://github.com/temuchinn/Educational_cases_ML/blob/master/8.%20Outliers%20Detection.ipynb)
 
-**Датасет:**
+**Датасет:** 
 
 **Описание:**
 
