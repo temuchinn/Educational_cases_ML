@@ -19,3 +19,17 @@
 **Датасет:** 57_hypothyroid
 
 **Описание:** В данном ноутбуке рассматривается проблема классификации несбалансированного датасета. Перед обучением ML моделей проведен первичный анализ и предобработка данных, а затем обучено несколько моделей машинного обучения с подбором гиперпараметров.
+
+## 4. [Classification 2](https://github.com/temuchinn/Educational_cases_ML/blob/master/4.%20Classification_2.ipynb)
+
+## 5. [Clustering](https://github.com/temuchinn/Educational_cases_ML/blob/master/5.%20Clustering.ipynb)
+
+## 6. [Neural Networks basic](https://github.com/temuchinn/Educational_cases_ML/blob/master/6.%20Neural%20Networks.ipynb)
+
+## 7. [Neural Nets for NLP](https://github.com/temuchinn/Educational_cases_ML/blob/master/7.%20NN_NLP.ipynb)
+
+## 8. [Outliers Detection](https://github.com/temuchinn/Educational_cases_ML/blob/master/8.%20Outliers%20Detection.ipynb)
+
+## 9. [Stock Market part. 1](https://github.com/temuchinn/Educational_cases_ML/blob/master/9.%20Stock_market_analysis.ipynb)
+
+## 10. [Stock Market part. 2](https://github.com/temuchinn/Educational_cases_ML/blob/master/10.%20Markowitz_portfolio.ipynb)
